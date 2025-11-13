@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Selected Publications
 cms_exclude: false
 
 # View.
@@ -10,3 +10,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+Here is a brief list of relevant selected publications. You can click on the list or look at aditional profiles. 

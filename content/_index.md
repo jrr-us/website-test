@@ -59,6 +59,7 @@ sections:
       filters:
         folders:
           - publication
+        year: 2022
         exclude_featured: false
     design:
       view: citation

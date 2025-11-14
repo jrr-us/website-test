@@ -32,12 +32,13 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: 'Test de bloque markdown'
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet varius ex. Aenean vel lacus aliquet, ultricies eros non, ultricies lorem. Nam vel libero sed justo pharetra bibendum ut vitae neque. Duis vel libero nulla. Mauris mollis vitae ipsum eu fermentum. Nullam tempor purus eget suscipit varius. Donec gravida tellus a quam porta, non tempor nisi faucibus. Fusce non nibh sapien. In a convallis erat, sit amet euismod mauris. Pellentesque vitae commodo mi. Proin sed justo enim. Nullam interdum nulla eget quam vehicula egestas. Aenean eleifend nisi in mattis iaculis. Maecenas cursus massa quis ipsum congue, dapibus suscipit tortor hendrerit. Sed vestibulum congue auctor. Ut ut tortor molestie, euismod ligula in, cursus mauris.
 
         Vestibulum eleifend, mauris at tincidunt ullamcorper, nisl arcu facilisis libero, at efficitur libero elit at lorem. Phasellus tempor dapibus risus aliquet commodo. Vivamus egestas elementum ante pellentesque consequat. Mauris tellus augue, suscipit id euismod vitae, molestie nec augue. Fusce tempor velit eu sem bibendum, ac faucibus arcu aliquet. Morbi vestibulum, tellus eu dapibus ultrices, ante dolor viverra arcu, nec sodales metus mi id neque. Vestibulum ex ante, tristique fringilla facilisis non, finibus id odio. Morbi a augue sit amet erat faucibus auctor eu vel lectus. Nunc non mollis sapien. Quisque laoreet est eget ligula suscipit, et mollis magna efficitur.
 
+        |-
         Aenean luctus fringilla ultricies. Curabitur tincidunt, libero non vehicula accumsan, enim orci ultrices dui, a cursus massa libero non odio. Aenean tincidunt convallis condimentum. Nam volutpat quam imperdiet, laoreet tortor et, euismod nibh. Proin volutpat urna nibh, fermentum auctor nisl consequat ut. Nullam sed rutrum lorem. Vivamus eu enim dignissim, tempor risus at, placerat metus. In non porttitor turpis, id accumsan eros. Quisque ornare nec turpis sit amet pharetra. Morbi in rutrum lacus. Integer tempor, lectus quis convallis maximus, lectus purus eleifend est, id tristique elit purus ut arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
     design:
       columns: '2'

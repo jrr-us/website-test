@@ -40,7 +40,7 @@ sections:
 
         Aenean luctus fringilla ultricies. Curabitur tincidunt, libero non vehicula accumsan, enim orci ultrices dui, a cursus massa libero non odio. Aenean tincidunt convallis condimentum. Nam volutpat quam imperdiet, laoreet tortor et, euismod nibh. Proin volutpat urna nibh, fermentum auctor nisl consequat ut. Nullam sed rutrum lorem. Vivamus eu enim dignissim, tempor risus at, placerat metus. In non porttitor turpis, id accumsan eros. Quisque ornare nec turpis sit amet pharetra. Morbi in rutrum lacus. Integer tempor, lectus quis convallis maximus, lectus purus eleifend est, id tristique elit purus ut arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:

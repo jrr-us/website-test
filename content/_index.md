@@ -48,7 +48,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research v2'
       subtitle: 'Test de bloque markdown'
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet varius ex. Aenean vel lacus aliquet, ultricies eros non, ultricies lorem. Nam vel libero sed justo pharetra bibendum ut vitae neque. Duis vel libero nulla. Mauris mollis vitae ipsum eu fermentum. Nullam tempor purus eget suscipit varius. Donec gravida tellus a quam porta, non tempor nisi faucibus. Fusce non nibh sapien. In a convallis erat, sit amet euismod mauris. Pellentesque vitae commodo mi. Proin sed justo enim. Nullam interdum nulla eget quam vehicula egestas. Aenean eleifend nisi in mattis iaculis. Maecenas cursus massa quis ipsum congue, dapibus suscipit tortor hendrerit. Sed vestibulum congue auctor. Ut ut tortor molestie, euismod ligula in, cursus mauris.

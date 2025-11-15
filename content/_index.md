@@ -46,18 +46,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: collection
-    content:
-      title: 'Recent Posts'
-      subtitle: 'Latest updates from our blog'
-      text: 'Stay up to date with our latest news and insights'
-      filters:
-        - "publication"
-        - "featured"
-      count: 3
-    design:
-      view: "card"
-      columns: "3"
   - block: markdown
     content:
       title: '📚 My Research v2'
@@ -77,11 +65,11 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publications
-        featured_only: true
+          - publication
+        featured_only: false
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications

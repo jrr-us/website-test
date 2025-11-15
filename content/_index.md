@@ -46,6 +46,18 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: collection
+    content:
+      title: 'Recent Posts'
+      subtitle: 'Latest updates from our blog'
+      text: 'Stay up to date with our latest news and insights'
+      filters:
+        - "publication"
+        - "featured"
+      count: 3
+    design:
+      view: "card"
+      columns: "3"
   - block: markdown
     content:
       title: '📚 My Research v2'
